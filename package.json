@@ -1,0 +1,22 @@
+{
+    "name": "cirao-da-massa",
+    "version": "0.1.0",
+    "description": "Cirão da Massa",
+    "author": "Cleiton Alves <webdev.cleiton@gmail.com>",
+    "license": "MIT",
+    "private": true,
+    "homepage": "http://www.cleitonalves.com/cirao-da-massa",
+    "dependencies": {
+        "prop-types": "^15.6.2",
+        "react": "^16.4.2",
+        "react-dom": "^16.4.2",
+        "react-router-dom": "^4.3.1",
+        "react-scripts": "1.1.5"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    }
+}

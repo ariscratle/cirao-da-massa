@@ -1,0 +1,23 @@
+.btn {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    font-size: 18px;
+    background: none;
+    border-radius: 4px;
+    padding: 10px 30px;
+    transition: .25s all ease;
+    outline: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #EEE;
+}
+
+@media screen and (max-width: 767px) {
+    .btn {
+        width: 90%;
+    }
+}
