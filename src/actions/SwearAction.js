@@ -12,7 +12,7 @@ export const Swear = () => {
             'Projetinho de',
             'Cadela no cio',
             'Playboy',
-            'Na sua vaida de',
+            'Na sua vaidade de',
             'Capitãozinho do mato'
         ],
         mid: [
