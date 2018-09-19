@@ -13,7 +13,10 @@ export const Swear = () => {
             'Cadela no cio',
             'Playboy',
             'Na sua vaidade de',
-            'Capitãozinho do mato'
+            'Capitãozinho do mato',
+            'Viado',
+            'Seu frôxu',
+            'Bolsominion'
         ],
         mid: [
             'oportunista',
@@ -31,6 +34,7 @@ export const Swear = () => {
             'selvagem',
             'quadrilheiro',
             'boçal',
+            'com desvio homossexual',
             'despreparado',
             'fisiológico',
             'delinquente juvenil',
@@ -46,7 +50,8 @@ export const Swear = () => {
             'fascistóide',
             'cheirador de cocaína',
             'marginal',
-            'canalha'
+            'canalha',
+            'mau-caráter'
         ],
         pos: [
             'de merda',
