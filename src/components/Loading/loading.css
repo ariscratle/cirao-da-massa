@@ -1,10 +1,14 @@
 .loading {
-    position: relative;
+    position: fixed;
+    top: 0;
+    left: 0;
     z-index: 10;
-    box-shadow: -1px 1px 24px 2000px rgba(198, 51, 15, 0.3);
+    background: rgba(198, 51, 15, 0.3);
+    height: 100%;
+    width: 100%;
+    transition: .25s all ease;
     opacity: 0;
     visibility: hidden;
-    transition: .25s all ease;
 }
 
 .loading.active {
