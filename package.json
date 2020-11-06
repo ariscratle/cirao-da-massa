@@ -5,7 +5,7 @@
     "author": "Cleiton Alves <webdev.cleiton@gmail.com>",
     "license": "MIT",
     "private": true,
-    "homepage": "http://www.cleitonalves.com/cirao-da-massa",
+    "homepage": "https://alvescleiton.github.io/cirao-da-massa",
     "dependencies": {
         "prop-types": "^15.6.2",
         "react": "^16.4.2",
